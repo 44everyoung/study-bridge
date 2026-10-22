@@ -1,6 +1,12 @@
 # Study Bridge — Ivy Ruoyi Zhou
 
-本地完成版，尚未公开发布。面向 BC Grade 8–12，并设独立 AP 分区。
+面向 BC Grade 8–12，并设独立 AP 分区。
+
+网站：https://44everyoung.github.io/study-bridge/
+
+GitHub 项目：https://github.com/44everyoung/study-bridge
+
+已获创办人批准公开发布。GitHub Pages 发布来源为 main 分支根目录。
 
 ## 打开预览
 
@@ -60,11 +66,11 @@ python3 tools/build_notes.py
 
 所有笔记的解释、例题和问题为原创，并标注 AI 辅助制作。没有复制 Jacob Clifford 的付费讲义或其他第三方笔记。`source` 链接用于课程背景参考，不表示官方审核或完整课程覆盖。外部资源归原作者所有；链接及访问说明检查于 2026 年 10 月。
 
-用户提供的照片、姓名和联系方式已按要求用于本地网站。站点没有在线报名表、账号、数据库或追踪代码；点击邮箱会打开邮件程序，并不会自动发信。
+用户提供的照片、姓名和联系方式已按要求用于网站。站点没有在线报名表、账号、数据库或追踪代码；点击邮箱会打开邮件程序，并不会自动发信。
 
-## Free GitHub Pages deployment — when you approve publishing
+## GitHub Pages deployment and future updates
 
-These steps publish the site and its source publicly. They have NOT been performed.
+Publishing was approved by the founder. This repository uses GitHub Pages with main / (root). The following steps are retained as a reference for setting up another copy.
 
 1. Unzip the package. Create or sign in to a GitHub account.
 2. Create a new **public** repository named `study-bridge`. GitHub Free supports Pages for public repositories. Do not upload private club information or student details.

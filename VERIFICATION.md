@@ -1,6 +1,6 @@
 # Verification — Study Bridge v2
 
-Checked locally on October 21, 2026. No public deployment performed.
+Checked locally on October 21, 2026. Public deployment verified on October 22, 2026 after founder approval.
 
 - Desktop home and founder page visually inspected, including the provided photograph.
 - 390px mobile home and Notes filters visually inspected. Fixed collapsed filter widths and rechecked.
@@ -18,4 +18,6 @@ Checked locally on October 21, 2026. No public deployment performed.
 
 Continuation checks: Grade 12 + Science returns Dynamic equilibrium; Grade 8 + Business returns Revenue, costs & profit. Every BC subject/grade filter has at least one suggested guide. The combined 28-page PDF download completed through the browser. Both new two-page PDFs were rendered and visually inspected.
 
-Limitations: no live GitHub Pages deployment, comprehensive assistive-technology audit, or independent teacher certification. First collection covers selected topics, not complete courses. Third-party sites control their own content and access terms.
+Live checks: GitHub Pages reports the site live at https://44everyoung.github.io/study-bridge/. The public home and founder portrait load correctly; Grade 12 + Science returns Dynamic equilibrium; the combined PDF downloads successfully.
+
+Limitations: no comprehensive assistive-technology audit or independent teacher certification. First collection covers selected topics, not complete courses. Third-party sites control their own content and access terms.
